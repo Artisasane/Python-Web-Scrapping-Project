@@ -168,5 +168,5 @@ This project:
    - **Product Model**
    - **Tags**
 4. **Stores the extracted data** in a CSV file.
-
-Would you like me to add comments in the actual code file for better readability? 😊
+---
+**Thank You!**
